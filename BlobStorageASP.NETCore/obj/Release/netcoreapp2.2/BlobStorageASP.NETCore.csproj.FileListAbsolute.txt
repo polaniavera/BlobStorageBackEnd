@@ -1,0 +1,22 @@
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\Properties\ServiceDependencies\optimpowerback - Web Deploy\profile.arm.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\BlobStorageASP.NETCore.deps.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\BlobStorageASP.NETCore.runtimeconfig.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\BlobStorageASP.NETCore.runtimeconfig.dev.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\BlobStorageASP.NETCore.dll
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\BlobStorageASP.NETCore.pdb
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.csprojAssemblyReference.cache
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.AssemblyInfoInputs.cache
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.AssemblyInfo.cs
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.RazorAssemblyInfo.cache
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.RazorAssemblyInfo.cs
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.RazorTargetAssemblyInfo.cache
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.dll
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.pdb
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\obj\Release\netcoreapp2.2\BlobStorageASP.NETCore.genruntimeconfig.cache
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\Properties\serviceDependencies.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\Properties\serviceDependencies.optimpowerback - Web Deploy.json
+C:\Users\temp\Documents\OptimPower\ModuleUpload\BlobStorageASP.NETCore\BlobStorageASP.NETCore\bin\Release\netcoreapp2.2\Properties\ServiceDependencies\optimpowerback - Web Deploy\storage1.arm.json

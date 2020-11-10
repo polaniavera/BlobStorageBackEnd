@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2020-09-17T18:49:10.8724203Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "optimpower"
+    },
+    "storage1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "9d693e92-224b-4655-89d2-32451cc1cdc0"
+    }
+  }
+}

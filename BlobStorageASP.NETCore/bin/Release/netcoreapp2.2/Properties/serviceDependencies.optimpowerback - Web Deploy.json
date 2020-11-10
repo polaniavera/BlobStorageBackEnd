@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/optimpowerblob",
+      "type": "storage.azure",
+      "connectionId": "MyConfig/StorageConnection",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
